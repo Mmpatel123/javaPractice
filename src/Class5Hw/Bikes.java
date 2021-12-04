@@ -10,6 +10,7 @@ public class Bikes {
      WebDriver driver  = new ChromeDriver();
      driver.get("https://www.selenium.dev/downloads/");
         driver.manage().window().maximize();
+        System.out.println("devgit ");
 
 }}
 /*echo "# javaPractice" >> README.md
