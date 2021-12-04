@@ -1,13 +1,14 @@
 package Class5Hw;
 
-public class Galalxy {
+//public class Galalxy {
+   // public static void main(String[] args) //{
+/*int b=6;
+int c=a+b;
+System.out.println(c);
+String abc="hello i am home";
+        System.out.println(abc);
 
-    public static void main(String[] args) {
-        System.out.println("our solar systerm galaxy called milkyway galaxy");
-
-        System.out.println("my very educated mother just sold noodles ");
-
-    }}
+    }}*/
 
 
 
