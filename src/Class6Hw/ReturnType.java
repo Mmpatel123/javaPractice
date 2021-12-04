@@ -1,7 +1,7 @@
 package Class6Hw;
 
 public class ReturnType {
-   public int megha(){
+   protected int megha(){
 
         int a=2;
         int b=3;

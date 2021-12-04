@@ -7,5 +7,6 @@ public class OK {
     public static void dev(){
 
         System.out.println(A);
+
     }
     }

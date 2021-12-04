@@ -9,7 +9,7 @@ public void temple() {
     int b = 10;
     System.out.println(   h = a + b);
 }
-public  void fight() {
+public void fight() {
     int x = 100;
     int y = 50;
     System.out.println( h = x - y);
