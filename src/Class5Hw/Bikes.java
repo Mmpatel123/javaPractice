@@ -11,7 +11,7 @@ public class Bikes {
      driver.get("https://www.selenium.dev/downloads/");
         driver.manage().window().maximize();
         System.out.println("devgit ");
-
+driver.get("");
 }}
 /*echo "# javaPractice" >> README.md
         //   git init

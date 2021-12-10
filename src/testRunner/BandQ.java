@@ -1,10 +1,10 @@
 package testRunner;
 
-import io.cucumber.junit.Cucumber;
+/*import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
-@RunWith(Cucumber.class)
+/*@RunWith(Cucumber.class)
 @CucumberOptions(
         features = "Letsgo",
         glue = "AddToCartSteps",
@@ -23,5 +23,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/DevPatel12345/JavaSeleniumBddPractice.git
 git push -u origin main
-     */
-}
+
+}*/

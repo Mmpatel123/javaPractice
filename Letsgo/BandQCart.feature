@@ -1,4 +1,4 @@
-Feature: Placing order
+/*Feature: Placing order
   Scenario: Place order
     Given Open the browsers
     When Enter the URLSS "http://practice.automationtesting.in/"

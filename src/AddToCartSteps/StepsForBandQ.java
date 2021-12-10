@@ -1,10 +1,8 @@
 package AddToCartSteps;
 
-import io.cucumber.java.en.And;
+/*import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -66,7 +64,7 @@ public WebDriver driver=null;
         driver.findElement(By.xpath("//*[@id=\"account_password\"]")).sendKeys("Avadh@#$2009.0");
 
     }
-}
+}*/
 
 
 
