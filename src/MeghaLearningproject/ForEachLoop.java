@@ -7,4 +7,5 @@ public class ForEachLoop {
             System.out.println(papa);
         }
         System.out.println(learn[3]);
+        System.out.println(learn[1]);
 }}
