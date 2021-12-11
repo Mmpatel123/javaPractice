@@ -8,4 +8,5 @@ public class ForEachLoop {
         }
         System.out.println(learn[3]);
         System.out.println(learn[1]);
+        System.out.println("hello");
 }}
