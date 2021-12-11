@@ -1,6 +1,6 @@
 package Class8Hw;
 
-public class dowhile {
+/* public class dowhile {
     //do while loop
     public static void main(String[] args) {
     int variable = 3;
@@ -9,7 +9,7 @@ public class dowhile {
 
     }while (variable<=10);
 }}
-class leapyear extends dowhile {
+ //class leapyear extends dowhile {
     public static void main(String[] args) {
         int year = 2020;
         if(year%4==0){
@@ -18,4 +18,4 @@ class leapyear extends dowhile {
         else {
             System.out.println("2020 is not leap year");
     }
-}}
+}}*/
